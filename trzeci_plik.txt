@@ -1,1 +1,3 @@
 to jest trzeci plik
+
+aaaaaa kalafior ziemniak
